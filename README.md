@@ -1,4 +1,4 @@
 ### 👋 Hi, I’m @Andrew-The-Cat (the mewo / schrodinger's catto)
-- Interested in surviving AI
-- Decently competent at programming
-- Quick and decisive learner
+- Average D&D enjoyer
+- Somewhat competent at programming
+- Mildly quick learner
